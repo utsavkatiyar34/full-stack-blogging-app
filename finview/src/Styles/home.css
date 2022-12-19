@@ -1,0 +1,9 @@
+
+.home-wrapper{
+        width:95%;
+        height:150vw;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top:1rem;
+        border:1px solid purple;
+}
